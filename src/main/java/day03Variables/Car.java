@@ -17,6 +17,13 @@ package day03Variables;
             System.out.println("cok guvenli bir sekilde durur...");
         }
 
+
+        public static void main(String[] args) {
+            System.out.println();
+            //v1 kodlarım
+            //v2 kodlarım
+
+        }
     }
 
 
