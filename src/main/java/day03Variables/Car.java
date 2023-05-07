@@ -22,6 +22,7 @@ package day03Variables;
             System.out.println();
             //v1 kodlarım
             //v2 kodlarım
+            //ben Adem korkunç git hub dan locale kod gönderimini gerçekleştiriyorum... 
 
         }
     }
