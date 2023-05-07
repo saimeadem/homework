@@ -22,6 +22,7 @@ public class MethotCreation01 {
 
         double sonuc2=daireAlani(12);
         System.out.println("daire alanı = " + sonuc2);
+    //yeni homework
 
     }
 
@@ -64,4 +65,8 @@ public class MethotCreation01 {
   public static double daireAlani(int r){
       return 3.14*r*r;
   }
+
+
+       //yeni homework
+
 }
